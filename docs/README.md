@@ -49,25 +49,6 @@ So if you like to learn more about the difference, we made a whole video about i
 This firmware can run on any **ESP8266**, not however on the ESP32!
 The most popular development boards, the `NodeMCU` and `Wemos d1 mini`, work great for this project.
 
-If you like to support our work, you can buy get a boards made with this project in mind.
-They come preflashed with the firmware, so you can start right away.
-You can chose between:
-
-**[Spacehuhn Store](https://spacehuhn.store)**:
-Our very own store where all revenue goes directly to us and towards the development of new and exciting projects :)
-We manufacture and ship from Germany.
-
-**[Maltronics](https://maltronics.com/)**:
-We partnered with Maltronics to bring you high quality hacking gadgets.
-They are based in the UK.
-
-**[DSTIKE](https://dstike.com/)**:
-DSTIKE was our first partner. They manufactured the first official deauther boards.
-They offer a wide range of deauthers in all kind of form factores. Including a smart watch.
-They are based in China, but their products are available through a variety of stores:
-- [Tindie](https://tindie.com/stores/lspoplove)
-- [AliExpress](https://dstike.aliexpress.com/store/2996024)
-- [Taobao](https://shop135375846.taobao.com)
 
 ## Disclaimer
 
